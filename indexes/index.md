@@ -1,2 +1,1 @@
-#MySQL Indexes
-
+## MySQL Indexes
